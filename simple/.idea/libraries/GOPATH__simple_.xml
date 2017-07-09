@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;simple&gt;">
+    <CLASSES>
+      <root url="file://$USER_HOME$/IdeaProjects/havstruck/src/github.com" />
+      <root url="file://$USER_HOME$/IdeaProjects/havstruck/src/gopkg.in" />
+      <root url="file://$USER_HOME$/IdeaProjects/havstruck/src/golang.org" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/IdeaProjects/havstruck/src/github.com" />
+      <root url="file://$USER_HOME$/IdeaProjects/havstruck/src/gopkg.in" />
+      <root url="file://$USER_HOME$/IdeaProjects/havstruck/src/golang.org" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
